@@ -1,4 +1,1 @@
-master 1.txt
-again
-dev-0111-demo
-modified
+master 1
